@@ -25,4 +25,13 @@ print("\n"
 "---------------------------------------------------------------------------\n"
 "                    LAPTOP SPECIFICATION\n"
 "----------------------------------------------------------------------------\n"
-# "Brand "f"{Brand}\n)
+"Brand         : "f"{Brand}\n"
+"Model         : "f"{Model}\n"
+"Ram           : "f"{Ram}\n"
+"Storage       : "f"{Storage}\n"
+"Processor     : "f"{Processor}\n"
+"Screen_size   : "f"{Screen_size}\n"
+"Battery       : "f"{Battery}\n"
+"Weight        : "f"{Weight}\n"
+"Year          : "f"{Year}")
+# Task Completed
